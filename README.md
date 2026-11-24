@@ -85,6 +85,8 @@ docker compose ps   # 모든 서비스가 (healthy) 상태인지 확인
 
 1. **Private 저장소에서 시작하기**
    - 본 템플릿을 복사해 지원자 본인의 **GitHub Private 저장소**를 생성해 주세요.
+     - 우측 상단 **`Use this template` → `Create a new repository`** 에서 Visibility를 **Private**으로 선택하세요.
+     - ⚠️ **Fork는 하지 마세요.** Public 저장소의 Fork는 Public으로만 생성되어 과제 코드가 외부에 노출됩니다.
    - **첫 커밋(Initial Commit)을 먼저 푸시한 시점부터 작업을 시작**해 주세요.
 
 2. **기능 단위로 자주, 의미 있는 커밋하기**
