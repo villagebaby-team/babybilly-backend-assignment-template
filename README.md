@@ -116,7 +116,7 @@ docker compose ps   # 모든 서비스가 (healthy) 상태인지 확인
      - **실행 방법** — 로컬 실행 및 테스트 방법
    - **실행 가능한 소스 코드**
    - **`AI_REPORT.md`**
-2. 면접관 GitHub 계정 **[면접관_GitHub_ID_입력]** 을 저장소의 **Collaborator로 초대**해 주세요.
+2. 면접관 GitHub 계정 **[`jay880331-1`](https://github.com/jay880331-1)** 을 저장소의 **Collaborator로 초대**해 주세요.
 3. 저장소 URL을 채용 담당자에게 회신해 주세요.
 
 ---
